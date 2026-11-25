@@ -6,6 +6,14 @@ Designed to decouple RF hardware from the display workstation: the **Raspberry P
 
 ---
 
+## Sample Reception
+
+Live **DVB-T2** reception on **UHF Channel 21 (474.000 MHz, 8 MHz bandwidth)** with Apple VideoToolbox hardware decoding and real-time RF telemetry:
+
+![Sample DVB-T2 Channel 21 Reception](docs/dvbt2_ch21_reception.jpg)
+
+---
+
 ## Architecture Overview
 
 ```
