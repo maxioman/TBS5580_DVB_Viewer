@@ -1,0 +1,7 @@
+build/
+imgui.ini
+.DS_Store
+*.o
+*.a
+*.so
+*.dylib
